@@ -7,4 +7,4 @@ clone this repository
 
 cd into this project directory
 Then open the index.html file to view the app
-view live demo @ vasititask.mohkabir.xyz happy coding
+view live demo @ https://mohkabir.github.io/tradersAfrica-project/ happy coding
