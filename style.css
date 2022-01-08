@@ -157,6 +157,7 @@ body .hero .container .flex nav ul {
   position: fixed;
   top: 40px;
   left: 0;
+  z-index: 50;
 }
 
 body .hero .container .flex nav ul li a {
